@@ -23,7 +23,7 @@ Diseño detallado de una solución de regresión lineal utilizando el paradigma 
 * Modelo formal.
 * Sincronización y propiedades.
 
-📄 Archivo: `punto1/README.md`
+ Archivo: `punto1/README.md`
 
 ---
 
@@ -35,7 +35,7 @@ Diseño de una solución aplicando programación orientada a aspectos. Incluye:
 * Definición de aspectos, joinpoints y advices.
 * Flujo del sistema con aspectos.
 
-📄 Archivo: `punto2/README.md`
+ Archivo: `punto2/README.md`
 
 ---
 
@@ -48,10 +48,10 @@ Incluye:
 * Pruebas de rendimiento.
 * Comparación analítica.
 
-📄 Carpeta: `punto3/`
+ Carpeta: `punto3/`
 
 ---
 
-## ✨ Autora
+##  Autora
 
 **Ana María Hernández Zea**
